@@ -1,0 +1,19 @@
+{
+  "name": "cs55.13-week03-mikadilello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.23.0",
+    "gray-matter": "^4.0.3",
+    "next": "^11.1.2",
+    "remark": "^14.0.1",
+    "remark-html": "^14.0.0"
+  }
+}
