@@ -1,19 +1,28 @@
 {
-  "name": "cs55.13-week03-mikadilello",
+  "name": "CS5513-Week03-mikadilello",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "date-fns": "^2.23.0",
     "gray-matter": "^4.0.3",
     "next": "^11.1.2",
-    "remark": "^14.0.1",
-    "remark-html": "^14.0.0"
-  }
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikadilello/nextjs-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikadilello/nextjs-blog/issues"
+  },
+  "homepage": "https://github.com/mikadilello/nextjs-blog#readme"
 }
